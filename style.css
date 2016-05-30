@@ -1,0 +1,200 @@
+body
+{
+	/* Background pattern from subtlepatterns.com */
+	background-image: url("img/dark_embroidery.png");
+	margin: 0px;
+	
+}
+
+
+header
+{
+	background-color: white;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 100;
+}
+
+#logo
+{
+	float: left;
+	padding-top: 20px;
+	padding-left: 150px;
+}
+
+nav
+{
+	float: right;
+	padding-right: 150px;
+	font-size: 30px;
+}
+
+#nawigacja
+{
+	display: inline-block;
+	list-style-type: none;
+	font-family: 'News Cycle', sans-serif;
+}
+
+ol > li
+{
+		float: left;
+		padding-right: 40px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+li > a:hover
+{
+	color: #EC7C26;
+	border-bottom: 2px dotted #EC7C26;
+}
+
+#czysc
+{
+	clear: both;
+}
+
+main
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+#pierwszy
+{
+	margin-top: 100px;
+}
+
+.zdjecie
+{
+	border-radius: 30%;
+	float: right;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.ikona
+{
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	color: white;
+}
+
+.icon-lightbulb
+{
+	color: white;
+	width: 200px;
+}
+
+
+.opis
+{
+	display: inline-block;
+	width: 550px;
+	padding-top: 30px;
+	padding-right: 20px;
+}
+
+.powitanie
+{
+	color: #EC7C26;
+	font-size: 40px;
+	margin: 0px;
+	text-align: center;
+}
+
+.tresc
+{
+	display: inline-block;
+	color: white;
+	font-size: 18px;
+	text-align: justify;
+}
+
+#drugi
+{
+	margin-top: 100px;
+}
+
+#ramka
+{
+	margin-top: 15px;
+	width: 1000px;
+	height:400px;
+	margin-left: 20px;
+}
+
+.tresc2
+{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+footer
+{
+	margin-top: 50px;
+	height: 60px;
+	width: 100%;
+	color: white;
+	background-color: #444444;
+	font-size: 18px;
+}
+
+footer p
+{
+	padding-top: 20px;
+	padding-left: 60px;
+}
+
+.imie
+{
+	color: white;
+	font-size: 26;
+	border-bottom: 2px solid white;
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 0px;
+}
+
+.dzial
+{
+	color: #EC7C26;
+	font-size: 21;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.lista
+{
+	color: white;
+	font-size: 18px;	
+	margin-top: 10px;
+}
+
+main li
+{
+	margin-bottom: 10px;
+	text-align: justify;	
+}
+
+.zdporfolio
+{
+	margin-top: 80px;
+}
+
+
